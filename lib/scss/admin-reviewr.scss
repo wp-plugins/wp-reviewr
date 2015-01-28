@@ -1,0 +1,49 @@
+body{
+	.reviewr-criteria-single{
+		padding: 10px;
+		border: 1px solid #dfdfdf;
+		border-spacing: 0;
+		background-color: #f9f9f9;
+		margin-bottom: 15px;
+		.form-table {
+			th, td{
+				padding: 10px;
+			}
+			.reviewr-td-small{
+				width: 50px;
+				input{
+					width: 50px;
+				}
+			}
+			.reviewr-td-last{
+				text-align: right;
+				width: 70px;
+				padding-right: 0px;
+				.button{
+					background-color: #dd3333;
+					border-color: #dd3333;
+				}
+			}
+		}
+	}
+	table{
+		td{
+			&.no-padding{
+				padding-top:0px;
+			}
+		}
+	}
+	.wp-reviewr{
+		td.user{
+			.avatar{
+				float: left;
+				padding: 0px 15px 15px 0px;
+			}
+		}
+	}
+	.toplevel_page_wpreviewr_plugin_menu{
+		li:nth-child(4n){
+			display: none;
+		}
+	}
+}

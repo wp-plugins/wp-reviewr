@@ -1,0 +1,18 @@
+/* line 2, ../scss/admin-reviewr.scss */
+body .reviewr-criteria-single { padding: 10px; border: 1px solid #dfdfdf; border-spacing: 0; background-color: #f9f9f9; margin-bottom: 15px; }
+/* line 9, ../scss/admin-reviewr.scss */
+body .reviewr-criteria-single .form-table th, body .reviewr-criteria-single .form-table td { padding: 10px; }
+/* line 12, ../scss/admin-reviewr.scss */
+body .reviewr-criteria-single .form-table .reviewr-td-small { width: 50px; }
+/* line 14, ../scss/admin-reviewr.scss */
+body .reviewr-criteria-single .form-table .reviewr-td-small input { width: 50px; }
+/* line 18, ../scss/admin-reviewr.scss */
+body .reviewr-criteria-single .form-table .reviewr-td-last { text-align: right; width: 70px; padding-right: 0px; }
+/* line 22, ../scss/admin-reviewr.scss */
+body .reviewr-criteria-single .form-table .reviewr-td-last .button { background-color: #dd3333; border-color: #dd3333; }
+/* line 31, ../scss/admin-reviewr.scss */
+body table td.no-padding { padding-top: 0px; }
+/* line 38, ../scss/admin-reviewr.scss */
+body .wp-reviewr td.user .avatar { float: left; padding: 0px 15px 15px 0px; }
+/* line 45, ../scss/admin-reviewr.scss */
+body .toplevel_page_wpreviewr_plugin_menu li:nth-child(4n) { display: none; }
